@@ -417,7 +417,7 @@ StScrollBar StButton#hhandle:active {
   font-size: 12px;
   width: 32px;
   height: 26px;
-  background:rgba(0,0,0,0.4);
+  background:rgba(0,0,0,0.9);
 }
 
 .panel-top:highlight {
@@ -441,7 +441,7 @@ StScrollBar StButton#hhandle:active {
   font-size: 12px;
   width: 32px;
   height: 26px;
-  background:rgba(0,0,0,0.4);
+  background:rgba(0,0,0,0.9);
 }
 
 .panel-bottom:highlight {
@@ -465,7 +465,7 @@ StScrollBar StButton#hhandle:active {
   font-size: 12px;
   width: 32px;
   height: 26px;
-  background:rgba(0,0,0,0.4);
+  background:rgba(0,0,0,0.9);
 }
 
 .panel-left:highlight {
@@ -489,7 +489,7 @@ StScrollBar StButton#hhandle:active {
   font-size: 12px;
   width: 32px;
   height: 26px;
-  background:rgba(0,0,0,0.4);
+  background:rgba(0,0,0,0.9);
 }
 
 .panel-right:highlight {
@@ -1362,7 +1362,7 @@ StScrollBar StButton#hhandle:active {
 .datemenu-date-label {
   padding: .7em 1.3em .4em 1.3em;
   font-size: 12px;
-  font-weight: bold;
+  font-weight: normal;
   text-align: center;
   color: #eee;
 }
@@ -1376,7 +1376,7 @@ StScrollBar StButton#hhandle:active {
 .calendar-month-label {
   padding-top: 2px;
   font-size: 12px;
-  font-weight: bold;
+  font-weight: normal;
   color: rgba(238, 238, 238, 0.65);
   padding: .5em;
 }
@@ -1411,7 +1411,7 @@ StScrollBar StButton#hhandle:active {
 
 .calendar-day-base {
   font-size: 12px;
-  font-weight: bold;
+  font-weight: normal;
   text-align: center;
   padding: 1px 0 0 1px;
   width: 2.5em;
@@ -1439,7 +1439,7 @@ StScrollBar StButton#hhandle:active {
 .calendar-today {
   border-image: url("img/misc/calendar-today.svg") 6;
   color: #fff;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .calendar-other-month-day {
